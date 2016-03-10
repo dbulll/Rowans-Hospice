@@ -4,9 +4,8 @@ body
 	color: #14996C; 
 }
 
-.eventsRow
-{
-	margin-top:10px;
+.eventPageCon {
+	text-align: center;
 }
 
 .navbar-default {
