@@ -1,0 +1,90 @@
+body 
+{ 
+	padding-top: 60px;
+	color: #14996C; 
+	background-color: #F5F5F5;
+}
+
+.eventCon {
+	border-radius: 2px;
+    border: 0px solid #73AD21;
+    background-color: white;
+    box-shadow: 1px 1px 5px #888888;
+    margin-left: -10px;
+    margin-right: -10px; 
+    margin-top: 5px;
+    margin-bottom: 5px;  
+}
+
+.eventImgCon {
+	-webkit-border-top-left-radius: 2px;
+	-webkit-border-top-right-radius: 2px;
+	-moz-border-radius-topleft: 2px;
+	-moz-border-radius-topright: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	overflow:hidden;
+}
+
+.eventPageCon {
+	text-align: center;
+}
+
+.navbar-default {
+  background-color: white;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: #14996C;
+	color: white;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: #14996C;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	background-color: white ;
+	color: #14896C;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	background-color: #14996C;
+	color: white;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #14996C;
+}
+button.navbar-toggle:hover {
+	color: red;
+}
+
+.navbar-brand {
+	padding: 2px;
+}
+
+.navbar-default .navbar-toggle:hover {
+	border-color: #14896C;
+}
+
+a:hover {
+	color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #14896C;
+}
+
+.navbar-default .navbar-toggle:focus {
+	background-color: white;
+}
+
+.navbar-default .navbar-toggle:hover {
+	background-color: white;
+}
+
+h3, h2, p, address {
+	color: #14996C;
+}
